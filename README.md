@@ -2,15 +2,25 @@
 
 A new Flutter project.
 
-## Getting Started
+## Android http networking
 
-This project is a starting point for a Flutter application.
+```
+<manifest xmlns:android...>
+ ...
+ <uses-permission android:name="android.permission.INTERNET" />
+ <application ...
+</manifest>
+```
 
-A few resources to get you started if this is your first Flutter project:
+## ios http networking
+```
+<key>com.apple.security.network.client</key>
+<true/>
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## APK
+```
+flutter build apk --release --target-platform=android-arm64
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## firebase / firestore / getx

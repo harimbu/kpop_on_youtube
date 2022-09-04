@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1096621663325-req7uqufimltkven74qapgq0fnq75aoi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1096621663325-req7uqufimltkven74qapgq0fnq75aoi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1096621663325-8eu7rgen05i56jotg1lbljttl4teps17.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2FJgywWX5wEdrBOuhFx2w9kIWL0p6Y_w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1096621663325</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kpopOnYoutube</string>
+	<key>PROJECT_ID</key>
+	<string>kpop-on-4e17a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kpop-on-4e17a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1096621663325:ios:2ddce9b9e95c0a06e359b4</string>
+	<key>DATABASE_URL</key>
+	<string>https://kpop-on-4e17a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

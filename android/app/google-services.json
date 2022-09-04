@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096621663325",
+    "firebase_url": "https://kpop-on-4e17a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kpop-on-4e17a",
+    "storage_bucket": "kpop-on-4e17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096621663325:android:705916de5c784691e359b4",
+        "android_client_info": {
+          "package_name": "com.harimbu.kpop_on_youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096621663325-hgmjn3d2bcu5p4dq1a0t3v5nt83ku3i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzWdYAE19BPVqml5vrUgaA7h_kKn0cl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096621663325-hgmjn3d2bcu5p4dq1a0t3v5nt83ku3i0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096621663325-req7uqufimltkven74qapgq0fnq75aoi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kpopOnYoutube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
